@@ -3,6 +3,7 @@
 I am **leachouri Mohamed**, I'm a tech enthusiast skilled in Java,  JEE, Spring Boot, Spring Security, ReactJs...
 
 Do not hesitate to contact me here:   **[Linkedin](https://www.linkedin.com/in/mohamed-leachouri/)**
+
 For more details : **[click here](https://m-leachouri.blogspot.com/)**
 
 ⚡ **Key Skills**:
