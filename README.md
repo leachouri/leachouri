@@ -1,10 +1,10 @@
 # :heavy_check_mark: Mohamed Leachouri :heavy_check_mark: 
  
-I am **leachouri Mohamed**, I'm a tech enthusiast skilled in Java,  JEE, Spring Boot, Spring Security, ReactJs...
+I am **Leachouri Mohamed**, I'm a tech enthusiast skilled in Java,  JEE, Spring Boot, Spring Security, ReactJs...
 
 Do not hesitate to contact me here:   **[Linkedin](https://www.linkedin.com/in/mohamed-leachouri/)**
 
-For more details : **[click here](https://m-leachouri.blogspot.com/)**
+For more details : **[Click here](https://m-leachouri.blogspot.com/)**
 
 ⚡ **Key Skills**:
 
@@ -23,4 +23,4 @@ For more details : **[click here](https://m-leachouri.blogspot.com/)**
  
   
 
-© 2021 GitHub, Inc.
+© 2020 GitHub, Inc.
