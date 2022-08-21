@@ -1,6 +1,6 @@
 # :heavy_check_mark: Mohamed Leachouri :heavy_check_mark: 
  
-I am **Leachouri Mohamed**, I'm a tech enthusiast skilled in Java,  JEE, Spring Boot, Spring Security, ReactJs, Angular.
+I am **Leachouri Mohamed**, I'm a tech enthusiast skilled in Java/JEE, Business Intelligence.
 
 Do not hesitate to contact me here:   **[Linkedin](https://www.linkedin.com/in/mohamed-leachouri/)**
 
