@@ -35,6 +35,9 @@ For more details : **[Click here](https://www.linkedin.com/in/mohamed-leachouri/
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
  
 -->
+
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="mohamed-leachouri" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/mohamed-leachouri?trk=profile-badge">Mohamed Leachouri</a></div>
+              
  
   
 
