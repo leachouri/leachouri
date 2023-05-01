@@ -8,6 +8,7 @@ For more details : **[Portfolio](https://www.linkedin.com/in/mohamed-leachouri/)
 
 My blog : **[Blog]([https://m-leachouri.blogspot.com/)**
 
+
 ⚡ **Key Skills**:
 
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
