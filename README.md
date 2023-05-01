@@ -6,8 +6,7 @@ Do not hesitate to contact me here:   **[Linkedin](https://www.linkedin.com/in/m
 
 For more details : **[Portfolio](https://www.linkedin.com/in/mohamed-leachouri/)**
 
-My blog : **[Blog]([https://m-leachouri.blogspot.com/)**
-
+My blog : **[Blog](https://m-leachouri.blogspot.com/)**
 
 ⚡ **Key Skills**:
 
