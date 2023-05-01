@@ -4,7 +4,9 @@ I am **Leachouri Mohamed**, I'm a tech enthusiast skilled in Java/JEE, Business 
 
 Do not hesitate to contact me here:   **[Linkedin](https://www.linkedin.com/in/mohamed-leachouri/)**
 
-For more details : **[Click here](https://www.linkedin.com/in/mohamed-leachouri/)**
+For more details : **[Portfolio](https://www.linkedin.com/in/mohamed-leachouri/)**
+
+My blog : **[Blog]([https://m-leachouri.blogspot.com/)**
 
 ⚡ **Key Skills**:
 
