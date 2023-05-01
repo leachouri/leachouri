@@ -25,7 +25,6 @@ For more details : **[Click here](https://www.linkedin.com/in/mohamed-leachouri/
 
 ![image](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
