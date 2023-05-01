@@ -1,6 +1,6 @@
 # :heavy_check_mark: Mohamed Leachouri :heavy_check_mark: 
  
-I am **Leachouri Mohamed**, I'm a tech enthusiast skilled in Java/JEE, Business Intelligence.
+I am **Leachouri Mohamed**, I'm a tech enthusiast skilled in Java/JEE, Business Intelligence and Data Science.
 
 Do not hesitate to contact me here:   **[Linkedin](https://www.linkedin.com/in/mohamed-leachouri/)**
 
@@ -9,10 +9,11 @@ For more details : **[Click here](https://www.linkedin.com/in/mohamed-leachouri/
 ⚡ **Key Skills**:
 
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF)
 ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white)
 
 
