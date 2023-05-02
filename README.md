@@ -4,7 +4,7 @@ I am **Leachouri Mohamed**, I am a full stack web developer skilled in Java/JEE.
 
 Do not hesitate to contact me here:   **[Linkedin](https://www.linkedin.com/in/mohamed-leachouri/)**
 
-For more details : **[Portfolio]**
+<!-- For more details : **[Portfolio]** -->
 
 My blog : **[Blog](https://m-leachouri.blogspot.com/)**
 
