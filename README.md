@@ -1,6 +1,6 @@
 # :heavy_check_mark: Mohamed Leachouri :heavy_check_mark: 
  
-I am **Leachouri Mohamed**, I am a full stack web developer skilled in Java/JEE. and I'm a Data Scientist.
+I am **Leachouri Mohamed**, I am a full stack web developer skilled in Java/JEE. and I'm Junior Data Scientist.
 
 Do not hesitate to contact me here:   **[Linkedin](https://www.linkedin.com/in/mohamed-leachouri/)**
 
