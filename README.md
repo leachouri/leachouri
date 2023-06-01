@@ -1,6 +1,6 @@
 # :heavy_check_mark: Mohamed Leachouri :heavy_check_mark: 
  
-**Leachouri Mohamed**, Full stack web developer skilled in Java/Spring. and I'm Junior Data Scientist.
+**Leachouri Mohamed**, Full stack web developer skilled in Java/Spring. <!--and I'm Junior Data Scientist.-->
 
 Do not hesitate to contact me here:   **[Linkedin](https://www.linkedin.com/in/mohamed-leachouri/)**
 
