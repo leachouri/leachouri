@@ -5,9 +5,7 @@
 Do not hesitate to contact me here:   **[Linkedin](https://www.linkedin.com/in/mohamed-leachouri/)**
 
 <!-- For more details : **[Portfolio]** -->
-
-My blog : **[Blog](https://m-leachouri.blogspot.com/)**
-
+ 
 ⚡ **Key Skills**:
 
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
