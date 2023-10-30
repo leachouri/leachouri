@@ -1,6 +1,6 @@
 # :heavy_check_mark: Mohamed Leachouri :heavy_check_mark: 
  
-**Leachouri Mohamed**, *Data Scientist & Web Developer skilled in Java(JEE/Spring) and Python(Django/Flask).*
+**Leachouri Mohamed**, *Data Scientist & Web Developer skilled in artificial intelligence technology and generative AI and Java(JEE/Spring) and Python(Django/Flask).*
 
 *Do not hesitate to contact me here:*   **[Linkedin](https://www.linkedin.com/in/mohamed-leachouri/)**
 
