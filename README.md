@@ -1,6 +1,6 @@
 # :heavy_check_mark: Mohamed Leachouri :heavy_check_mark: 
  
-**Leachouri Mohamed**, Data Scientist & Web Developer skilled in Java(JEE/Spring) and Python(Django/Flask)/. 
+**Leachouri Mohamed**, ***Data Scientist & Web Developer skilled in Java(JEE/Spring) and Python(Django/Flask).***
 
 Do not hesitate to contact me here:   **[Linkedin](https://www.linkedin.com/in/mohamed-leachouri/)**
 
@@ -15,6 +15,7 @@ Do not hesitate to contact me here:   **[Linkedin](https://www.linkedin.com/in/m
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
 ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
