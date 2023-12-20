@@ -1,4 +1,4 @@
-# :heavy_check_mark: Mohamed Leachouri :heavy_check_mark: 
+# Mohamed Leachouri
  
 **Leachouri Mohamed**, *Data Scientist & Web Developer skilled in artificial intelligence technology and generative AI and Java(JEE/Spring) and Python(Django/Flask).*
 
