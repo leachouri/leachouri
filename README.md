@@ -4,6 +4,8 @@ Data Scientist skilled in Artificial Intelligence (AI) technology and Data Analy
 
 *Do not hesitate to contact me here:*   **[Linkedin](https://www.linkedin.com/in/mohamed-leachouri/)**
 
+**[Porfolio](https://leachouri-mohamed.vercel.app/)**
+
 <!-- For more details : **[Portfolio]** -->
  
 ⚡ **Key Skills**:
