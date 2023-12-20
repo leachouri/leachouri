@@ -2,7 +2,7 @@
  
 Data Scientist skilled in Artificial Intelligence (AI) technology and Data Analysis. 
 
-I'm also Backend Web Developer with Java(JEE/Spring) and Python(Django/Flask).
+I'm also a Backend Web Developer with Java(JEE/Spring) and Python(Django/Flask).
 
 *Do not hesitate to contact me here:*   **[Linkedin](https://www.linkedin.com/in/mohamed-leachouri/)**
 
