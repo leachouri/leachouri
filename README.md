@@ -1,6 +1,6 @@
-# Mohamed Leachouri
+**Leachouri Mohamed**
  
-**Leachouri Mohamed**, *Data Scientist & Web Developer skilled in artificial intelligence technology and generative AI and Java(JEE/Spring) and Python(Django/Flask).*
+*Data Scientist & Web Developer skilled in artificial intelligence technology and generative AI and Java(JEE/Spring) and Python(Django/Flask).*
 
 *Do not hesitate to contact me here:*   **[Linkedin](https://www.linkedin.com/in/mohamed-leachouri/)**
 
