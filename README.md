@@ -7,7 +7,7 @@ I'm also a Backend Web Developer with Java(JEE/Spring) and Python(Django/Flask).
 *Do not hesitate to contact me here:*   **[Linkedin](https://www.linkedin.com/in/mohamed-leachouri/)**
 
 *For more details:*  **[Porfolio](https://leachouri-mohamed.vercel.app/)**
-
+<!--
 ⚡ **Key Skills**:
 
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -15,7 +15,7 @@ I'm also a Backend Web Developer with Java(JEE/Spring) and Python(Django/Flask).
 ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![image](https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logo=Talend&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-<!--
+
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
