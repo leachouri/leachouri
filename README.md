@@ -1,8 +1,8 @@
 **Leachouri Mohamed**
  
-Data Scientist skilled in Artificial Intelligence (AI) technology and Data Analysis. 
-
-I'm also a Backend Web Developer with Java(JEE/Spring) and Python(Django/Flask).
+Fullstack Web Developer with Java(JEE/Spring/ReactJS) with nearly a year and a half of experience.
+ 
+I'm also Data Scientist skilled in Artificial Intelligence (AI) technology. 
 
 *Do not hesitate to contact me here:*   **[Linkedin](https://www.linkedin.com/in/mohamed-leachouri/)**
 
