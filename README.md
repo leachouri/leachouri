@@ -1,6 +1,6 @@
 **Leachouri Mohamed**
  
-Fullstack Web Developer with Java(JEE/Spring/ReactJS) with nearly a year and a half of experience.
+Fullstack Web Developer with Java(JEE/Spring) and (ReactJS/Angular) with nearly 2 years of experience.
  
 I'm also Data Scientist skilled in Artificial Intelligence (AI) technology. 
 
