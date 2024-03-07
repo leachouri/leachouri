@@ -2,8 +2,6 @@
  
 Fullstack Web Developer with Java(JEE/Spring) and (ReactJS/Angular) with nearly 2 years of experience.
  
-I'm also Data Scientist skilled in Artificial Intelligence (AI) technology. 
-
 *Do not hesitate to contact me here:*   **[Linkedin](https://www.linkedin.com/in/mohamed-leachouri/)**
 
 *For more details:*  **[Porfolio](https://leachouri-mohamed.vercel.app/)**
