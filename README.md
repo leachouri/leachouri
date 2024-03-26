@@ -1,10 +1,9 @@
 **Leachouri Mohamed**
  
-Fullstack Web Developer with Java(JEE/Spring) and ReactJS.
+Data Scientist & Fullstack Web Developer with Java(JEE/Spring) and ReactJS .
  
 *Do not hesitate to contact me here:*   **[Linkedin](https://www.linkedin.com/in/mohamed-leachouri/)**
 
-*For more details:*  **[Porfolio](https://leachouri-mohamed.vercel.app/)**
 <!--
 ⚡ **Key Skills**:
 
