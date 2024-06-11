@@ -1,6 +1,6 @@
 **Leachouri Mohamed**
  
-AI/NLP Developer & Fullstack Web Developer with Java(JEE/Spring) and ReactJS .
+Fullstack Web Developer with Java(JEE/Spring) and ReactJS .
  
 *Do not hesitate to contact me here:*   **[Linkedin](https://www.linkedin.com/in/mohamed-leachouri/)**
 
