@@ -2,7 +2,7 @@
  
 Fullstack Java Web Developer | AI Developer.
  
-*Do not hesitate to contact me here:*   **[Linkedin](https://www.linkedin.com/in/mohamed-leachouri/)**
+*Do not hesitate to contact me here:*   **[Linkedin](https://www.linkedin.com/in/leachouri/)**
 
 ________________________
 
