@@ -1,9 +1,3 @@
-**Leachouri Mohamed**
- 
-Fullstack Java Web Developer | AI Developer.
- 
-*Do not hesitate to contact me here:*   **[Linkedin](https://www.linkedin.com/in/leachouri/)**
-
 ________________________
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Leachouri-blue)](https://www.linkedin.com/in/mohamed-leachouri)
