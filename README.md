@@ -1,6 +1,6 @@
 ________________________
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Leachouri-blue)](https://www.linkedin.com/in/mohamed-leachouri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Leachouri-blue)](https://www.linkedin.com/in/leachouri)
 
 ⚡ **Key Skills**:
 
