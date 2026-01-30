@@ -2,6 +2,10 @@ ________________________
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Leachouri-blue)](https://www.linkedin.com/in/leachouri)
 
+
+
+
+<!--
 ⚡ **Key Skills**:
 
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -10,10 +14,6 @@ ________________________
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAF)
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-
-
-
-<!--
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
