@@ -1,19 +1,14 @@
-# 🚀 Mohamed Leachouri  
-### Full-Stack Java Engineer | Spring Boot | JEE | React | Angular | DevOps 
-
----
+## 🚀 Mohamed Leachouri  
+**Full-Stack Java Engineer | Spring Boot | JEE | React | Angular | DevOps**
 
 🔗 LinkedIn: https://www.linkedin.com/in/leachouri  
 🌐 Portfolio: https://leachourimohamed.blogspot.com
 
----
-
-## 👨‍💻 About
+👨‍💻 **About**
+ 
 Full-Stack Java Engineer with experience in building scalable web applications using Spring Boot, Microservices, React, and Angular. Passionate about clean architecture and cloud-native systems.
 
----
-
-## ⚡ Skills
+⚡ **Skills**
 
 **Backend:** Java 8/17/21, Spring Boot, Spring Security, Microservices, REST APIs, JPA/Hibernate, Kafka, RabbitMQ, JWT  
 **Frontend:** React, Angular, TypeScript, JavaScript, Redux, HTML/CSS, Material UI  
@@ -21,9 +16,7 @@ Full-Stack Java Engineer with experience in building scalable web applications u
 **DevOps:** Docker, Kubernetes, Jenkins, AWS, GitHub Actions, Linux  
 **Tools:** Git, Swagger, Postman, Agile/Scrum
 
----
-
-## 🧠 Tech Stack
+🧠 **Tech Stack**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -39,6 +32,7 @@ Full-Stack Java Engineer with experience in building scalable web applications u
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
----
+⭐ Available for Full-Stack Engineering roles (end-to-end development) — Remote / Onsite — CDI or Freelance (hourly/daily)
 
-⭐ Open to Full-Stack / Backend / Cloud opportunities
+------------------------------- 
+© 2025 GitHub, Inc.
