@@ -10,8 +10,8 @@ Full-Stack Java Engineer with experience in building scalable web applications u
 
 ⚡ **Skills**
 
-**Backend:** Java 8/17/21, Spring Boot, Spring Security, Microservices, REST APIs, JPA/Hibernate, Kafka, RabbitMQ, JWT  
-**Frontend:** React, Angular, TypeScript, JavaScript, Redux, HTML/CSS, Material UI  
+**Backend:** Java 8/17/21, JEE, Spring Boot, Spring Security, Microservices, REST APIs, JPA/Hibernate, Kafka, RabbitMQ, JWT  
+**Frontend:** React, Redux, Angular, NgRx, RxJS, TypeScript, JavaScript, HTML/CSS, Material UI  
 **Database:** PostgreSQL, MySQL, Oracle, Redis, Elasticsearch  
 **DevOps:** Docker, Kubernetes, Jenkins, AWS, GitHub Actions, Linux  
 **Tools:** Git, Swagger, Postman, Agile/Scrum
