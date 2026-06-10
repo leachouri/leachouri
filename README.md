@@ -3,8 +3,8 @@ ________________________
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Leachouri-blue)](https://www.linkedin.com/in/leachouri)
 
 
-
-
+[![Porfolio](https://img.shields.io/badge/LinkedIn-Mohamed%20Leachouri-blue)]([https://www.linkedin.com/in/leachouri](https://leachourimohamed.blogspot.com/))
+ 
 <!--
 ⚡ **Key Skills**:
 
